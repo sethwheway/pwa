@@ -1,36 +1,43 @@
 [
   [
     {
+      "id": 0,
       "name": "Registration",
       "time": "9:00 AM",
       "place": "LRV"
     },
     {
+      "id": 1,
       "name": "Welcome and Opening Remarks",
       "time": "10:00 AM",
       "place": "Catalyst"
     },
     {
+      "id": 2,
       "name": "Campus Tour",
       "time": "11:00 AM",
       "place": "Catalyst"
     },
     {
+      "id": 3,
       "name": "Lunch and Information Booths",
       "time": "12:00 PM",
       "place": "Science Centre"
     },
     {
+      "id": 4,
       "name": "Course Introductions",
       "time": "1:00 PM",
       "place": "Cadman"
     },
     {
+      "id": 5,
       "name": "Student Life Panel",
       "time": "2:00 PM",
       "place": "Catalyst"
     },
     {
+      "id": 6,
       "name": "Closing Remarks and Q&A",
       "time": "3:00 PM",
       "place": "Catalyst"
@@ -38,36 +45,43 @@
   ],
   [
     {
+      "id": 7,
       "name": "Registration",
       "time": "9:00 AM",
       "place": "LRV"
     },
     {
+      "id": 8,
       "name": "Welcome and Opening Remarks",
       "time": "10:00 AM",
       "place": "Catalyst"
     },
     {
+      "id": 9,
       "name": "Campus Tour",
       "time": "11:00 AM",
       "place": "Catalyst"
     },
     {
+      "id": 10,
       "name": "Lunch and Information Booths",
       "time": "12:00 PM",
       "place": "Science Centre"
     },
     {
+      "id": 11,
       "name": "The P",
       "time": "1:00 PM",
       "place": "Cadman"
     },
     {
+      "id": 12,
       "name": "Studsdfwfede Panel",
       "time": "2:00 PM",
       "place": "Catalyst"
     },
     {
+      "id": 13,
       "name": "Crf3wrfr3wfw3erfrks and Q&A",
       "time": "3:00 PM",
       "place": "Catalyst"
