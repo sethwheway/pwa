@@ -1,0 +1,10 @@
+:root {
+    font-family: -apple-system, "Segoe UI", "Roboto", "sans-serif";
+    --theme-text: rgba(0, 0, 0, .7);
+    --theme-red: 200, 15, 35;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+}
