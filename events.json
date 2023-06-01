@@ -46,43 +46,43 @@
   [
     {
       "id": 7,
-      "name": "Registration",
+      "name": "Registration (Day 2)",
       "time": "9:00 AM",
       "place": "LRV"
     },
     {
       "id": 8,
-      "name": "Welcome and Opening Remarks",
+      "name": "Welcome and Opening Remarks (Day 2)",
       "time": "10:00 AM",
       "place": "Catalyst"
     },
     {
       "id": 9,
-      "name": "Campus Tour",
+      "name": "Campus Tour (Day 2)",
       "time": "11:00 AM",
       "place": "Catalyst"
     },
     {
       "id": 10,
-      "name": "Lunch and Information Booths",
+      "name": "Lunch and Information Booths (Day 2)",
       "time": "12:00 PM",
       "place": "Science Centre"
     },
     {
       "id": 11,
-      "name": "The P",
+      "name": "Course Introductios (Day 2)",
       "time": "1:00 PM",
       "place": "Cadman"
     },
     {
       "id": 12,
-      "name": "Studsdfwfede Panel",
+      "name": "Student Panel",
       "time": "2:00 PM",
       "place": "Catalyst"
     },
     {
       "id": 13,
-      "name": "Crf3wrfr3wfw3erfrks and Q&A",
+      "name": "Questions & Answers",
       "time": "3:00 PM",
       "place": "Catalyst"
     }
