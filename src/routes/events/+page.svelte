@@ -10,7 +10,7 @@
 
 
 <p>Press on an event to show more information.
-Long press to add the event to My Events</p>
+Tap the + to add an event to My Events</p>
 
 <EventsContainer events={data.events}/>
 

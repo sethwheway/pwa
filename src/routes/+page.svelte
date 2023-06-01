@@ -27,7 +27,9 @@
     <br><hr>
     <h2>Feedback</h2>
     <p>Submit your feedback here.</p>
-    <textarea bind:value={feedback}></textarea>
+    <label>Feedback
+        <textarea bind:value={feedback}></textarea>
+    </label>
     <button type="button" on:click={submit} disabled={disabled}>{#if !disabled}Submit{:else}Thank you!{/if}</button>
 </div>
 

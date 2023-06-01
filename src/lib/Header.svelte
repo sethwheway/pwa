@@ -63,7 +63,7 @@
         height: 100%;
         padding: 0 0.5rem;
 
-        color: var(--theme-text);
+        color: black;
         font-weight: 700;
         font-size: 0.8rem;
         text-transform: uppercase;

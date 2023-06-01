@@ -23,8 +23,9 @@
         }
     }
 
-    function submit() {
-        set(ref(db, `img/${localStorage.getItem("username")}`), selected)
+    async function submit() {
+        let d = await set(ref(db, `img/${localStorage.getItem("username")}`), selected)
+        console.log(d)
         window.location.pathname = `${base}/account`
     }
 </script>

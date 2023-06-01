@@ -28,7 +28,7 @@
             return
         }
 
-        get(child(ref(db), `pass/${username}`)).then((snapshot) => {
+        get(child(ref(db), `pass/${username}`)).then(async (snapshot) => {
             if (snapshot.exists()) {
                 if (snapshot.val() !== password) {
                     incorrect_details = true
@@ -38,7 +38,7 @@
                 logged = true
                 update_pic()
             } else {
-                set(ref(db, `pass/${username}`), password)
+                await set(ref(db, `pass/${username}`), password)
                 localStorage.setItem("username", username)
                 window.location.pathname = `${base}/register`
             }
