@@ -30,7 +30,7 @@
     }
 </script>
 
-
+<h3>Please upload a profile picture</h3>
 <input type="file" accept="image/*" on:change={handle_input}/>
 {#if selected}
     <img src={selected} alt="Selected Image"/>
